@@ -1,0 +1,9 @@
+{
+    "version":2,
+    "build":[
+        {"src":"story.html","user":"@vercel/static"}
+    ],
+    "routes":[
+        {"src":"/","dest":"/story.html"}
+    ]
+}
